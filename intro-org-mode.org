@@ -14,11 +14,26 @@ A window in Emacs refers to a portion of the Emacs frame where a buffer is displ
 ** Frame
 An Emacs frame is what most applications would call a window (the whole application window that can contain multiple Emacs windows).
 ** ~M~
- Refers to Meta key such as ~Alt~ or ~Option~
+Refers to Meta key such as ~Alt~ or ~Option~
 ** ~C~
 Refers to ~Ctrl~ key (example `C c` means Ctrl+C)
+** ~SPC~
+Refers to space bar (used in Doom Emacs)
 
 * TODO Common Key Bindings
+** TODO Commands
+*** M x
+Run and list available commands
+** TODO Buffer
+*** SPC b i
+List open buffers
+*** SPC b n
+Go to *next* buffer
+*** SPC b p
+Go to *previous* buffer
+** TODO CD
+*** SPC .
+Navigate through directories (open current one)
 
 * Heading 1
 ** Heading 2
