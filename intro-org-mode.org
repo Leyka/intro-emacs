@@ -12,30 +12,31 @@ Most of what I will write will come from tutorials, or things I learned myself. 
 ** Buffer
 A buffer is a region of memory used to hold text that you are editing. Each file you open, as well as temporary texts like help messages, are displayed in buffers.
 ** Window
-refers to a portion of the Emacs frame where a buffer is displayed. You can split a frame into multiple windows.
+Refers to a portion of the Emacs frame where a buffer is displayed. You can split a frame into multiple windows.
 ** Frame
 An Emacs frame is what most applications would call a window (the whole application window that can contain multiple Emacs windows).
 ** ~M~
 Refers to Meta key such as ~Alt~ or ~Option~
 ** ~C~
-Refers to ~Ctrl~ key (example `C c` means Ctrl+C)
+Refers to ~Ctrl~ key (example `C-c` means Ctrl+C)
 ** ~SPC~
 Refers to space bar (used in Doom Emacs)
 
-* TODO Common Key Bindings
+* Common Key Bindings
 ** TODO Commands
-*** M x
-Run and list available commands
-** DONE Buffer
-*** SPC b i
-List open buffers
-*** SPC b n
-Go to *next* buffer
-*** SPC b p
-Go to *previous* buffer
-** TODO CD
-*** SPC .
-Navigate through directories (open current one)
+- ~M x~ run and list available commands
+** Buffer
+- ~SPC b i~ list open buffers
+- ~SPC b n~ go to next buffer
+- ~SPC b p~ go to previous buffer
+- ~SPC b k~ kill current buffer
+** TODO Navigation
+- ~SPC .~ navigate through directories (open current one)
+** TODO Evil Mode
+- ~gg~ go to top file
+- ~g~ go to bottom file
+
+-----------
 
 * Heading 1
 ** Heading 2
