@@ -1,0 +1,28 @@
+#+title: Intro Org Mode
+
+* Hello World
+
+This is an introduction to ~emacs~ and ~org-mode~.
+
+Most of what I will write will come from tutorials, or things I learned myself. Let's have fun!
+
+* Common Emacs Vocabulary
+** Buffer
+A buffer is a region of memory used to hold text that you are editing. Each file you open, as well as temporary texts like help messages, are displayed in buffers.
+** Window
+A window in Emacs refers to a portion of the Emacs frame where a buffer is displayed. You can split a frame into multiple windows.
+** Frame
+An Emacs frame is what most applications would call a window (the whole application window that can contain multiple Emacs windows).
+** ~M~
+ Refers to Meta key such as ~Alt~ or ~Option~
+** ~C~
+Refers to ~Ctrl~ key (example `C c` means Ctrl+C)
+
+* TODO Common Key Bindings
+
+* Heading 1
+** Heading 2
+*** Heading 3
+**** Heading 4
+***** Heading 5
+****** Heading 6
