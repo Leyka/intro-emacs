@@ -4,8 +4,7 @@
 
 ~ [notes](https://github.com/Leyka/intro-emacs/blob/main/intro-org-mode.org)
 
-![image](https://github.com/Leyka/intro-emacs/assets/8690545/eada86c6-7a0d-4385-ad78-9a92351fabbb)
-
+<img width="811" alt="image" src="https://github.com/Leyka/intro-emacs/assets/8690545/65df598d-ba23-4da5-8166-08eb1f1c68d4">
 
 ## Resources
 
