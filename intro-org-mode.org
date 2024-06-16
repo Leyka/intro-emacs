@@ -1,5 +1,7 @@
 #+title: Intro Org Mode
 
+[[https://orgmode.org/resources/img/org-mode-unicorn.svg]]
+
 * Hello World
 
 This is an introduction to ~emacs~ and ~org-mode~.
@@ -10,7 +12,7 @@ Most of what I will write will come from tutorials, or things I learned myself. 
 ** Buffer
 A buffer is a region of memory used to hold text that you are editing. Each file you open, as well as temporary texts like help messages, are displayed in buffers.
 ** Window
-A window in Emacs refers to a portion of the Emacs frame where a buffer is displayed. You can split a frame into multiple windows.
+refers to a portion of the Emacs frame where a buffer is displayed. You can split a frame into multiple windows.
 ** Frame
 An Emacs frame is what most applications would call a window (the whole application window that can contain multiple Emacs windows).
 ** ~M~
@@ -24,7 +26,7 @@ Refers to space bar (used in Doom Emacs)
 ** TODO Commands
 *** M x
 Run and list available commands
-** TODO Buffer
+** DONE Buffer
 *** SPC b i
 List open buffers
 *** SPC b n
