@@ -1,0 +1,13 @@
+#+title: Introduction to ~emacs~
+
+My playground/notes about emacs and Org Mode
+
+** Org Mode
+[[https://github.com/Leyka/intro-emacs/blob/main/intro-org-mode.org][Notes]]
+
+[[https://github.com/Leyka/intro-emacs/assets/8690545/65df598d-ba23-4da5-8166-08eb1f1c68d4]]
+
+** Resources
+- [[https://github.com/niyumard/Doom-Emacs-Cheat-Sheet][Cheat Sheet - Doom]]
+- [[https://www.youtube.com/watch?v=37H7bD-G7nE][Doom Emacs On Day One]] (video)
+- [[https://www.youtube.com/watch?v=DEeStDz_imQ][5 reasons I love Emacs Orgmode]] (video)
