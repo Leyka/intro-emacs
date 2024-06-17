@@ -1,6 +1,7 @@
 #+title: Intro Org Mode
 
-[[https://orgmode.org/resources/img/org-mode-unicorn.svg]]
+[[./images/licorn.svg]]
+
 
 * Hello World
 
@@ -25,7 +26,7 @@ Refers to space bar (used in Doom Emacs)
 * Common Key Bindings
 ** TODO Commands
 - ~M x~ run and list available commands
-** Buffer
+** DONE Buffer
 - ~SPC b i~ list open buffers
 - ~SPC b n~ go to next buffer
 - ~SPC b p~ go to previous buffer
