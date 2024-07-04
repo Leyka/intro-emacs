@@ -35,7 +35,7 @@ Refers to space bar (used in Doom Emacs)
 - ~SPC .~ navigate through directories (open current one)
 ** TODO Evil Mode
 - ~gg~ go to top file
-- ~g~ go to bottom file
+- ~G~ go to bottom file
 
 -----------
 
